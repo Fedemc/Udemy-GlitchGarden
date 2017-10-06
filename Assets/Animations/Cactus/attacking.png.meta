@@ -1,98 +1,83 @@
 fileFormatVersion: 2
-guid: 2554dd1c0d8c0ac42a8eb3c6d92a4f99
-timeCreated: 1506117486
+guid: e505ebe6280a5c0448399389a3877c82
+timeCreated: 1507252888
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Attacking_0
-    21300002: Attacking_1
-    21300004: Attacking_2
-    21300006: Attacking_3
-    21300008: Attacking_4
-    21300010: Attacking_5
-    21300012: Attacking_6
-    21300014: Attacking_7
-    21300016: Attacking_8
-    21300018: Attacking_9
-    21300020: Attacking_10
-    21300022: Attacking_11
-    21300024: Attacking_12
-    21300026: Attacking_13
-    21300028: Attacking_14
-    21300030: Attacking_15
-    21300032: Attacking_16
-    21300034: Attacking_17
-    21300036: Attacking_18
-    21300038: Attacking_19
-    21300040: Attacking_20
-    21300042: Attacking_21
-    21300044: Attacking_22
-    21300046: Attacking_23
-    21300048: Attacking_24
-    21300050: Attacking_25
-    21300052: Attacking_26
-    21300054: Attacking_27
-    21300056: Attacking_28
-    21300058: Attacking_29
-    21300060: Attacking_30
-    21300062: Attacking_31
-    21300064: Attacking_32
-    21300066: Attacking_33
-    21300068: Attacking_34
-    21300070: Attacking_35
-    21300072: Attacking_36
-    21300074: Attacking_37
-    21300076: Attacking_38
-    21300078: Attacking_39
-    21300080: Attacking_40
-    21300082: Attacking_41
-    21300084: Attacking_42
-    21300086: Attacking_43
-    21300088: Attacking_44
-    21300090: Attacking_45
-    21300092: Attacking_46
-    21300094: Attacking_47
-    21300096: Attacking_48
-    21300098: Attacking_49
-    21300100: Attacking_50
-    21300102: Attacking_51
-    21300104: Attacking_52
-    21300106: Attacking_53
-    21300108: Attacking_54
-    21300110: Attacking_55
-    21300112: Attacking_56
-    21300114: Attacking_57
-    21300116: Attacking_58
-    21300118: Attacking_59
-    21300120: Attacking_60
-    21300122: Attacking_61
-    21300124: Attacking_62
-    21300126: Attacking_63
-    21300128: Attacking_64
-    21300130: Attacking_65
-    21300132: Attacking_66
-    21300134: Attacking_67
-    21300136: Attacking_68
-    21300138: Attacking_69
-    21300140: Attacking_70
-    21300142: Attacking_71
-    21300144: Attacking_72
-    21300146: Attacking_73
-    21300148: Attacking_74
-    21300150: Attacking_75
-    21300152: Attacking_76
-    21300154: Attacking_77
-    21300156: Attacking_78
-    21300158: Attacking_79
-    21300160: Attacking_80
-    21300162: Attacking_81
-    21300164: Attacking_82
-    21300166: Attacking_83
-    21300168: Attacking_84
-    21300170: Attacking_85
-    21300172: Attacking_86
-    21300174: Attacking_87
-    21300176: Attacking_88
+    21300000: attacking_0
+    21300002: attacking_1
+    21300004: attacking_2
+    21300006: attacking_3
+    21300008: attacking_4
+    21300010: attacking_5
+    21300012: attacking_6
+    21300014: attacking_7
+    21300016: attacking_8
+    21300018: attacking_9
+    21300020: attacking_10
+    21300022: attacking_11
+    21300024: attacking_12
+    21300026: attacking_13
+    21300028: attacking_14
+    21300030: attacking_15
+    21300032: attacking_16
+    21300034: attacking_17
+    21300036: attacking_18
+    21300038: attacking_19
+    21300040: attacking_20
+    21300042: attacking_21
+    21300044: attacking_22
+    21300046: attacking_23
+    21300048: attacking_24
+    21300050: attacking_25
+    21300052: attacking_26
+    21300054: attacking_27
+    21300056: attacking_28
+    21300058: attacking_29
+    21300060: attacking_30
+    21300062: attacking_31
+    21300064: attacking_32
+    21300066: attacking_33
+    21300068: attacking_34
+    21300070: attacking_35
+    21300072: attacking_36
+    21300074: attacking_37
+    21300076: attacking_38
+    21300078: attacking_39
+    21300080: attacking_40
+    21300082: attacking_41
+    21300084: attacking_42
+    21300086: attacking_43
+    21300088: attacking_44
+    21300090: attacking_45
+    21300092: attacking_46
+    21300094: attacking_47
+    21300096: attacking_48
+    21300098: attacking_49
+    21300100: attacking_50
+    21300102: attacking_51
+    21300104: attacking_52
+    21300106: attacking_53
+    21300108: attacking_54
+    21300110: attacking_55
+    21300112: attacking_56
+    21300114: attacking_57
+    21300116: attacking_58
+    21300118: attacking_59
+    21300120: attacking_60
+    21300122: attacking_61
+    21300124: attacking_62
+    21300126: attacking_63
+    21300128: attacking_64
+    21300130: attacking_65
+    21300132: attacking_66
+    21300134: attacking_67
+    21300136: attacking_68
+    21300138: attacking_69
+    21300140: attacking_70
+    21300142: attacking_71
+    21300144: attacking_72
+    21300146: attacking_73
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -134,7 +119,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 133.3333
+  spritePixelsToUnits: 100
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -145,7 +130,7 @@ TextureImporter:
   textureFormatSet: 0
   platformSettings:
   - buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -153,23 +138,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
   - buildTarget: Standalone
-    maxTextureSize: 4096
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-  - buildTarget: Android
-    maxTextureSize: 4096
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-  - buildTarget: WebGL
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -177,7 +146,23 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
   - buildTarget: iPhone
-    maxTextureSize: 4096
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
@@ -188,13 +173,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Attacking_0
+      name: attacking_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 930
-        width: 251
-        height: 186
+        y: 1512
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,13 +187,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_1
+      name: attacking_1
       rect:
         serializedVersion: 2
-        x: 251
-        y: 930
-        width: 251
-        height: 186
+        x: 157
+        y: 1512
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -216,13 +201,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_2
+      name: attacking_2
       rect:
         serializedVersion: 2
-        x: 502
-        y: 930
-        width: 251
-        height: 186
+        x: 314
+        y: 1512
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,13 +215,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_3
+      name: attacking_3
       rect:
         serializedVersion: 2
-        x: 753
-        y: 930
-        width: 251
-        height: 186
+        x: 471
+        y: 1512
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,13 +229,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_4
+      name: attacking_4
       rect:
         serializedVersion: 2
-        x: 1004
-        y: 930
-        width: 251
-        height: 186
+        x: 628
+        y: 1512
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,13 +243,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_5
+      name: attacking_5
       rect:
         serializedVersion: 2
-        x: 1255
-        y: 930
-        width: 251
-        height: 186
+        x: 785
+        y: 1512
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,139 +257,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_6
-      rect:
-        serializedVersion: 2
-        x: 1506
-        y: 930
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_7
-      rect:
-        serializedVersion: 2
-        x: 1757
-        y: 930
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_8
-      rect:
-        serializedVersion: 2
-        x: 2008
-        y: 930
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_9
-      rect:
-        serializedVersion: 2
-        x: 2259
-        y: 930
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_10
-      rect:
-        serializedVersion: 2
-        x: 2510
-        y: 930
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_11
-      rect:
-        serializedVersion: 2
-        x: 2761
-        y: 930
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_12
-      rect:
-        serializedVersion: 2
-        x: 3012
-        y: 930
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_13
-      rect:
-        serializedVersion: 2
-        x: 3263
-        y: 930
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_14
-      rect:
-        serializedVersion: 2
-        x: 3514
-        y: 930
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_15
+      name: attacking_6
       rect:
         serializedVersion: 2
         x: 0
-        y: 744
-        width: 251
-        height: 186
+        y: 1386
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -412,13 +271,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_16
+      name: attacking_7
       rect:
         serializedVersion: 2
-        x: 251
-        y: 744
-        width: 251
-        height: 186
+        x: 157
+        y: 1386
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -426,13 +285,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_17
+      name: attacking_8
       rect:
         serializedVersion: 2
-        x: 502
-        y: 744
-        width: 251
-        height: 186
+        x: 314
+        y: 1386
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -440,13 +299,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_18
+      name: attacking_9
       rect:
         serializedVersion: 2
-        x: 753
-        y: 744
-        width: 251
-        height: 186
+        x: 471
+        y: 1386
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -454,13 +313,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_19
+      name: attacking_10
       rect:
         serializedVersion: 2
-        x: 1004
-        y: 744
-        width: 251
-        height: 186
+        x: 628
+        y: 1386
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -468,13 +327,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_20
+      name: attacking_11
       rect:
         serializedVersion: 2
-        x: 1255
-        y: 744
-        width: 251
-        height: 186
+        x: 785
+        y: 1386
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -482,139 +341,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_21
-      rect:
-        serializedVersion: 2
-        x: 1506
-        y: 744
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_22
-      rect:
-        serializedVersion: 2
-        x: 1757
-        y: 744
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_23
-      rect:
-        serializedVersion: 2
-        x: 2008
-        y: 744
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_24
-      rect:
-        serializedVersion: 2
-        x: 2259
-        y: 744
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_25
-      rect:
-        serializedVersion: 2
-        x: 2510
-        y: 744
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_26
-      rect:
-        serializedVersion: 2
-        x: 2761
-        y: 744
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_27
-      rect:
-        serializedVersion: 2
-        x: 3012
-        y: 744
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_28
-      rect:
-        serializedVersion: 2
-        x: 3263
-        y: 744
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_29
-      rect:
-        serializedVersion: 2
-        x: 3514
-        y: 744
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_30
+      name: attacking_12
       rect:
         serializedVersion: 2
         x: 0
-        y: 558
-        width: 251
-        height: 186
+        y: 1260
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -622,13 +355,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_31
+      name: attacking_13
       rect:
         serializedVersion: 2
-        x: 251
-        y: 558
-        width: 251
-        height: 186
+        x: 157
+        y: 1260
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -636,13 +369,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_32
+      name: attacking_14
       rect:
         serializedVersion: 2
-        x: 502
-        y: 558
-        width: 251
-        height: 186
+        x: 314
+        y: 1260
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -650,13 +383,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_33
+      name: attacking_15
       rect:
         serializedVersion: 2
-        x: 753
-        y: 558
-        width: 251
-        height: 186
+        x: 471
+        y: 1260
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -664,13 +397,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_34
+      name: attacking_16
       rect:
         serializedVersion: 2
-        x: 1004
-        y: 558
-        width: 251
-        height: 186
+        x: 628
+        y: 1260
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -678,13 +411,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_35
+      name: attacking_17
       rect:
         serializedVersion: 2
-        x: 1255
-        y: 558
-        width: 251
-        height: 186
+        x: 785
+        y: 1260
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -692,139 +425,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_36
-      rect:
-        serializedVersion: 2
-        x: 1506
-        y: 558
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_37
-      rect:
-        serializedVersion: 2
-        x: 1757
-        y: 558
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_38
-      rect:
-        serializedVersion: 2
-        x: 2008
-        y: 558
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_39
-      rect:
-        serializedVersion: 2
-        x: 2259
-        y: 558
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_40
-      rect:
-        serializedVersion: 2
-        x: 2510
-        y: 558
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_41
-      rect:
-        serializedVersion: 2
-        x: 2761
-        y: 558
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_42
-      rect:
-        serializedVersion: 2
-        x: 3012
-        y: 558
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_43
-      rect:
-        serializedVersion: 2
-        x: 3263
-        y: 558
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_44
-      rect:
-        serializedVersion: 2
-        x: 3514
-        y: 558
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_45
+      name: attacking_18
       rect:
         serializedVersion: 2
         x: 0
-        y: 372
-        width: 251
-        height: 186
+        y: 1134
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -832,13 +439,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_46
+      name: attacking_19
       rect:
         serializedVersion: 2
-        x: 251
-        y: 372
-        width: 251
-        height: 186
+        x: 157
+        y: 1134
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -846,13 +453,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_47
+      name: attacking_20
       rect:
         serializedVersion: 2
-        x: 502
-        y: 372
-        width: 251
-        height: 186
+        x: 314
+        y: 1134
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -860,13 +467,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_48
+      name: attacking_21
       rect:
         serializedVersion: 2
-        x: 753
-        y: 372
-        width: 251
-        height: 186
+        x: 471
+        y: 1134
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -874,13 +481,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_49
+      name: attacking_22
       rect:
         serializedVersion: 2
-        x: 1004
-        y: 372
-        width: 251
-        height: 186
+        x: 628
+        y: 1134
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -888,13 +495,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_50
+      name: attacking_23
       rect:
         serializedVersion: 2
-        x: 1255
-        y: 372
-        width: 251
-        height: 186
+        x: 785
+        y: 1134
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -902,139 +509,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_51
-      rect:
-        serializedVersion: 2
-        x: 1506
-        y: 372
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_52
-      rect:
-        serializedVersion: 2
-        x: 1757
-        y: 372
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_53
-      rect:
-        serializedVersion: 2
-        x: 2008
-        y: 372
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_54
-      rect:
-        serializedVersion: 2
-        x: 2259
-        y: 372
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_55
-      rect:
-        serializedVersion: 2
-        x: 2510
-        y: 372
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_56
-      rect:
-        serializedVersion: 2
-        x: 2761
-        y: 372
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_57
-      rect:
-        serializedVersion: 2
-        x: 3012
-        y: 372
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_58
-      rect:
-        serializedVersion: 2
-        x: 3263
-        y: 372
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_59
-      rect:
-        serializedVersion: 2
-        x: 3514
-        y: 372
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_60
+      name: attacking_24
       rect:
         serializedVersion: 2
         x: 0
-        y: 186
-        width: 251
-        height: 186
+        y: 1008
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1042,13 +523,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_61
+      name: attacking_25
       rect:
         serializedVersion: 2
-        x: 251
-        y: 186
-        width: 251
-        height: 186
+        x: 157
+        y: 1008
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1056,13 +537,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_62
+      name: attacking_26
       rect:
         serializedVersion: 2
-        x: 502
-        y: 186
-        width: 251
-        height: 186
+        x: 314
+        y: 1008
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1070,13 +551,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_63
+      name: attacking_27
       rect:
         serializedVersion: 2
-        x: 753
-        y: 186
-        width: 251
-        height: 186
+        x: 471
+        y: 1008
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1084,13 +565,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_64
+      name: attacking_28
       rect:
         serializedVersion: 2
-        x: 1004
-        y: 186
-        width: 251
-        height: 186
+        x: 628
+        y: 1008
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1098,13 +579,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_65
+      name: attacking_29
       rect:
         serializedVersion: 2
-        x: 1255
-        y: 186
-        width: 251
-        height: 186
+        x: 785
+        y: 1008
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1112,13 +593,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_66
+      name: attacking_30
       rect:
         serializedVersion: 2
-        x: 1506
-        y: 186
-        width: 251
-        height: 186
+        x: 0
+        y: 882
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1126,13 +607,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_67
+      name: attacking_31
       rect:
         serializedVersion: 2
-        x: 1757
-        y: 186
-        width: 251
-        height: 186
+        x: 157
+        y: 882
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1140,13 +621,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_68
+      name: attacking_32
       rect:
         serializedVersion: 2
-        x: 2008
-        y: 186
-        width: 251
-        height: 186
+        x: 314
+        y: 882
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1154,13 +635,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_69
+      name: attacking_33
       rect:
         serializedVersion: 2
-        x: 2259
-        y: 186
-        width: 251
-        height: 186
+        x: 471
+        y: 882
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1168,13 +649,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_70
+      name: attacking_34
       rect:
         serializedVersion: 2
-        x: 2510
-        y: 186
-        width: 251
-        height: 186
+        x: 628
+        y: 882
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1182,13 +663,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_71
+      name: attacking_35
       rect:
         serializedVersion: 2
-        x: 2761
-        y: 186
-        width: 251
-        height: 186
+        x: 785
+        y: 882
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1196,13 +677,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_72
+      name: attacking_36
       rect:
         serializedVersion: 2
-        x: 3012
-        y: 186
-        width: 251
-        height: 186
+        x: 0
+        y: 756
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1210,13 +691,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_73
+      name: attacking_37
       rect:
         serializedVersion: 2
-        x: 3263
-        y: 186
-        width: 251
-        height: 186
+        x: 157
+        y: 756
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1224,13 +705,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_74
+      name: attacking_38
       rect:
         serializedVersion: 2
-        x: 3514
-        y: 186
-        width: 251
-        height: 186
+        x: 314
+        y: 756
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1238,13 +719,475 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_75
+      name: attacking_39
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_40
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_41
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 756
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_43
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_44
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_45
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_46
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_47
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 630
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_49
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_50
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_51
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_52
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_53
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 504
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_55
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_56
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_57
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_58
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_59
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 378
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_61
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_62
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_63
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_64
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_65
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 252
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_67
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_68
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_69
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_70
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_71
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 126
+        width: 157
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attacking_72
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 251
-        height: 186
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1252,181 +1195,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Attacking_76
+      name: attacking_73
       rect:
         serializedVersion: 2
-        x: 251
+        x: 157
         y: 0
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_77
-      rect:
-        serializedVersion: 2
-        x: 502
-        y: 0
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_78
-      rect:
-        serializedVersion: 2
-        x: 753
-        y: 0
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_79
-      rect:
-        serializedVersion: 2
-        x: 1004
-        y: 0
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_80
-      rect:
-        serializedVersion: 2
-        x: 1255
-        y: 0
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_81
-      rect:
-        serializedVersion: 2
-        x: 1506
-        y: 0
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_82
-      rect:
-        serializedVersion: 2
-        x: 1757
-        y: 0
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_83
-      rect:
-        serializedVersion: 2
-        x: 2008
-        y: 0
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_84
-      rect:
-        serializedVersion: 2
-        x: 2259
-        y: 0
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_85
-      rect:
-        serializedVersion: 2
-        x: 2510
-        y: 0
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_86
-      rect:
-        serializedVersion: 2
-        x: 2761
-        y: 0
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_87
-      rect:
-        serializedVersion: 2
-        x: 3012
-        y: 0
-        width: 251
-        height: 186
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Attacking_88
-      rect:
-        serializedVersion: 2
-        x: 3263
-        y: 0
-        width: 251
-        height: 186
+        width: 157
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
