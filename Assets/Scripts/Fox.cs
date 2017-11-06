@@ -24,8 +24,6 @@ public class Fox : MonoBehaviour {
 
     private void OnTriggerEnter2D(Collider2D collider)
     {
-        
-
         //Me guardo el gameobject contra el que estoy colisionando, lo guardo en "obj"
         GameObject obj = collider.gameObject;
         
@@ -35,10 +33,12 @@ public class Fox : MonoBehaviour {
             return;
         }
 
+        //Si es un defender y es la piedra
         if(obj.GetComponent<Stone>())
         {
             anim.SetTrigger("jumpTrigger");
         }
+        //Si no es la piedra
         else
         {
             anim.SetBool("isAttacking", true);

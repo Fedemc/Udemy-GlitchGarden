@@ -38,6 +38,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4637073111866862}
   - component: {fileID: 212517681979189290}
+  - component: {fileID: 114424741588534056}
   m_Layer: 0
   m_Name: Top
   m_TagString: Untagged
@@ -56,6 +57,7 @@ GameObject:
   - component: {fileID: 95454241769234630}
   - component: {fileID: 61253847085837398}
   - component: {fileID: 114349227853620876}
+  - component: {fileID: 114458399490465626}
   m_Layer: 0
   m_Name: Star Trophy
   m_TagString: Untagged
@@ -72,6 +74,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4190940357276958}
   - component: {fileID: 212696571886398556}
+  - component: {fileID: 114849957423190432}
   m_Layer: 0
   m_Name: Base
   m_TagString: Untagged
@@ -232,6 +235,42 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f1ced314883b1c140aaee1efbf3235ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &114424741588534056
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1258552184934108}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 591bc0c0090dabb469b52f83f7a17190, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  HealthAmount: 0
+--- !u!114 &114458399490465626
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1468035481357696}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 591bc0c0090dabb469b52f83f7a17190, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  HealthAmount: 100
+--- !u!114 &114849957423190432
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1479798235972128}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 591bc0c0090dabb469b52f83f7a17190, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  HealthAmount: 0
 --- !u!212 &212517681979189290
 SpriteRenderer:
   m_ObjectHideFlags: 1

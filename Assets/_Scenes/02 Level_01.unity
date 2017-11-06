@@ -416,6 +416,11 @@ Prefab:
       propertyPath: m_Name
       value: Gravestone (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 114610580985119250, guid: c0771e51eae8ba94c85a7af036cabe02,
+        type: 2}
+      propertyPath: HealthAmount
+      value: 30
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c0771e51eae8ba94c85a7af036cabe02, type: 2}
   m_IsPrefabParent: 0
